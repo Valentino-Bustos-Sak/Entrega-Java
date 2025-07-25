@@ -39,6 +39,7 @@ public class NumerosConsecutivos {
         lista.add(11);
         lista.add(11);
         lista.add(12);
+        lista.add(13);
 
 
         List<List<Integer>> consecutivos = encontrarConsecutivos(lista);
